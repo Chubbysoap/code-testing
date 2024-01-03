@@ -1,1 +1,10 @@
-Hello, this is the updated content.
+Today's high is 50°F Today's low is 32°F
+The Weather Today is Mostly Cloudy with a Chance of Rain17%
+The Highs and Lows of the next three days will be
+Thu: 50°F 32°F
+Fri: 47°F 33°F
+Sat: 46°F 32°F
+The Weather and Rain chance of the Next three days will be
+Thu: Mostly Cloudy with a Chance of Rain17%
+Fri: Partly Cloudy with a Chance of Rain5%
+Sat:  with a RainChance of Rain92%
