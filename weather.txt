@@ -8,4 +8,4 @@ The Weather and Rain chance of the Next three days will be
 Fri: Sunny with a Chance of Rain1%
 Sat:  with a RainChance of Rain92%
 Sun: Mostly Sunny with a Chance of Rain9%
-time.struct_time(tm_year=2024, tm_mon=1, tm_mday=4, tm_hour=7, tm_min=33, tm_sec=46, tm_wday=3, tm_yday=4, tm_isdst=0)
+7:51	4/1/2024
