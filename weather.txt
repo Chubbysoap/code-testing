@@ -1,10 +1,11 @@
-Today's high is 50°F Today's low is 32°F
-The Weather Today is Mostly Cloudy with a Chance of Rain19%
+Today's high is High is Unavailable at this timeF Today's low is 32°F
+The Weather Today is 24°Sunny with a Chance of Rain4%
 The Highs and Lows of the next three days will be
-Thu: 50°F 32°F
-Fri: 47°F 33°F
-Sat: 46°F 33°F
+Thu: 32°F Sc°F
+Fri: 46°F 32°F
+Sat: 45°F 33°F
 The Weather and Rain chance of the Next three days will be
-Thu: Mostly Cloudy with a Chance of Rain19%
+Thu: 24°Sunny with a Chance of Rain4%
 Fri: Partly Cloudy with a Chance of Rain5%
-Sat:  with a RainChance of Rain92%
+Sat:  with a RainChance of Rain93%
+time.struct_time(tm_year=2024, tm_mon=1, tm_mday=3, tm_hour=20, tm_min=20, tm_sec=29, tm_wday=2, tm_yday=3, tm_isdst=0)
