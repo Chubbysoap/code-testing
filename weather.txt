@@ -1,1 +1,11 @@
-Hello, this is the updated content.
+8:28	4/1/2024
+Today's high is 52°F Today's low is 24°F
+The Weather Today is Sunny with a Chance of Rain1%
+The Highs and Lows of the next three days will be
+Fri: 52°F 24°F
+Sat: 45°F 35°F
+Sun: 56°F 28°F
+The Weather and Rain chance of the Next three days will be
+Fri: Sunny with a Chance of Rain1%
+Sat:  with a RainChance of Rain88%
+Sun: Mostly Sunny with a Chance of Rain9%
