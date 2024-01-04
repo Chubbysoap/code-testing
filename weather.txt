@@ -1,11 +1,11 @@
 Today's high is 51°F Today's low is 23°F
-The Weather Today is Sunny with a Chance of Rain2%
+The Weather Today is Sunny with a Chance of Rain1%
 The Highs and Lows of the next three days will be
 Fri: 51°F 23°F
-Sat: 45°F 35°F
-Sun: 56°F 28°F
+Sat: 44°F 35°F
+Sun: 56°F 27°F
 The Weather and Rain chance of the Next three days will be
-Fri: Sunny with a Chance of Rain2%
-Sat:  with a RainChance of Rain94%
+Fri: Sunny with a Chance of Rain1%
+Sat:  with a RainChance of Rain92%
 Sun: Mostly Sunny with a Chance of Rain9%
-time.struct_time(tm_year=2024, tm_mon=1, tm_mday=4, tm_hour=6, tm_min=44, tm_sec=31, tm_wday=3, tm_yday=4, tm_isdst=0)
+time.struct_time(tm_year=2024, tm_mon=1, tm_mday=4, tm_hour=7, tm_min=33, tm_sec=46, tm_wday=3, tm_yday=4, tm_isdst=0)
