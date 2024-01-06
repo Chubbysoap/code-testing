@@ -1,11 +1,11 @@
-10:20	5/1/2024
-Today's high is 47°F Today's low is 34°F
-The Weather Today is Partly CloudyChance of  with a 0%
+17:13	6/1/2024
+Today's high is High is Unavailable at this timeF Today's low is 37°F
+The Weather Today is 28°Sunny with a Chance of Rain7%
 The Highs and Lows of the next three days will be
-Sat: 47°F 34°F
-Sun: 54°F 28°F
-Mon: 51°F 39°F
+Sun: 37°F Pa°F
+Mon: 50°F 38°F
+Tue: 61°F 36°F
 The Weather and Rain chance of the Next three days will be
-Sat: Partly CloudyChance of  with a 0%
-Sun: Sunny with a Chance of Rain11%
+Sun: 28°Sunny with a Chance of Rain7%
 Mon: Partly Cloudy with a Chance of Rain6%
+Tue:  with a RainChance of Rain100%
