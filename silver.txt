@@ -2,3 +2,5 @@
 Silver ask is:$23.39 and its change today is: $0.18
 17:16 7/1/7
 Silver ask is:$23.38 and its change today is: $0.00
+6:55 13/1/13
+Silver ask is:$23.39 and its change today is: $0.44
