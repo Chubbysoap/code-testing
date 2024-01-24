@@ -1,11 +1,11 @@
-13:25	14/1/2024
-Today's high is 55°F Today's low is 38°F
-The Weather Today is Partly Cloudy with a Chance of Rain1%
+19:13	23/1/2024
+Today's high is High is Unavailable at this timeF Today's low is 42°F
+The Weather Today is 50°Scattered Showers with a Chance of Rain65%
 The Highs and Lows of the next three days will be
-Mon: 55°F 38°F
-Tue: 45°F 18°F
-Wed: 43°F 22°F
+Wed: 42°F Sc°F
+Thu: 65°F 61°F
+Fri: 68°F 58°F
 The Weather and Rain chance of the Next three days will be
-Mon: Partly Cloudy with a Chance of Rain1%
-Tue: Cloudy with a Chance of Rain15%
-Wed: SunnyChance of  with a 0%
+Wed: 50°Scattered Showers with a Chance of Rain65%
+Thu:  with a RainChance of Rain85%
+Fri: Scattered Showers with a Chance of Rain58%
