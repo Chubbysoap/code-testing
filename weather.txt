@@ -1,11 +1,11 @@
-16:44	28/1/2024
-Today's high is High is Unavailable at this timeF Today's low is 37°F
-The Weather Today is 29°Sunny with a Chance of Rain5%
+12:1	29/1/2024
+Today's high is 55°F Today's low is 29°F
+The Weather Today is Sunny with a Chance of Rain10%
 The Highs and Lows of the next three days will be
-Mon: 37°F Pa°F
-Tue: 52°F 37°F
-Wed: 54°F 30°F
+Tue: 55°F 29°F
+Wed: 54°F 29°F
+Thu: 58°F 35°F
 The Weather and Rain chance of the Next three days will be
-Mon: 29°Sunny with a Chance of Rain5%
-Tue: Partly Cloudy with a Chance of Rain7%
-Wed: Partly Cloudy with a Chance of Rain20%
+Tue: Sunny with a Chance of Rain10%
+Wed: Partly Cloudy with a Chance of Rain22%
+Thu: Mostly Sunny with a Chance of Rain7%
